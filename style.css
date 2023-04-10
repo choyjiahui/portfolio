@@ -730,7 +730,7 @@ footer {
     transform: none;
     height: auto;
     width: 100%;
-    flex-direction: column-reverse;
+    flex-direction: column;
     border-radius: 0;
   }
 
